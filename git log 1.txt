@@ -1,0 +1,42 @@
+$ git log
+commit 667d21f21cdb1f93e61141bd7b281600916dd4cb (HEAD -> git_3)
+Author: artempvn <artem_pvn@mail.ru>
+Date:   Sun Dec 20 12:22:36 2020 +0300
+
+    #5 adding
+
+commit a86ebf46df4daf03bf4d36040c2bef8da34b0809
+Author: artempvn <artem_pvn@mail.ru>
+Date:   Sun Dec 20 12:22:17 2020 +0300
+
+    #4 adding
+
+commit f7f5c53c0cb60aa11f09c17662597f2fa95f630e
+Author: artempvn <artem_pvn@mail.ru>
+Date:   Sun Dec 20 12:21:49 2020 +0300
+
+    #3 adding
+
+commit 4c4ff6c072749a7a489e0a820df3c2627e664059
+Author: artempvn <artem_pvn@mail.ru>
+Date:   Sun Dec 20 12:21:31 2020 +0300
+
+    #2 adding
+
+commit 61f443237f5b807835ff75d1dc71f6abe8460453
+Author: artempvn <artem_pvn@mail.ru>
+Date:   Sun Dec 20 12:21:01 2020 +0300
+
+    #1 adding
+
+commit 3a028b38b53b11440776103d730f791e2fa57844
+Author: artempvn <artem_pvn@mail.ru>
+Date:   Sat Dec 19 18:37:56 2020 +0300
+
+    doubtingFile added
+
+commit be92c20796521a4b8a43fe31f077cfd6c66bbf5a (master, git_task)
+Author: artempvn <artem_pvn@mail.ru>
+Date:   Fri Dec 18 22:43:13 2020 +0300
+
+    first commit

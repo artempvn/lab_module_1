@@ -1,0 +1,18 @@
+$ git log
+commit 78184a191101d4c89d7dc1a9c9beca90e2292529 (HEAD -> git_3)
+Author: artempvn <artem_pvn@mail.ru>
+Date:   Sun Dec 20 12:21:01 2020 +0300
+
+    squashed commit
+
+commit 3a028b38b53b11440776103d730f791e2fa57844
+Author: artempvn <artem_pvn@mail.ru>
+Date:   Sat Dec 19 18:37:56 2020 +0300
+
+    doubtingFile added
+
+commit be92c20796521a4b8a43fe31f077cfd6c66bbf5a (master, git_task)
+Author: artempvn <artem_pvn@mail.ru>
+Date:   Fri Dec 18 22:43:13 2020 +0300
+
+    first commit
